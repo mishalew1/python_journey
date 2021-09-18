@@ -1,15 +1,15 @@
 # Python learning journey
 
 
-# Documenting methods I have learned
+## Documenting methods I have learned
 
-# methods
-"""
-	methods are functions only available to a specific object
-	my_list.append()
-	my_string.format()
-	append only exists for lists and the format function only exists for strings
-"""
+**methods**
+
+>	methods are functions only available to a specific object
+>	my_list.append()
+>	my_string.format()
+>	append only exists for lists and the format function only exists for strings
+
 
 
 # format()
