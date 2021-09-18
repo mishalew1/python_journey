@@ -5,10 +5,10 @@
 
 **methods**
 
->	methods are functions only available to a specific object
->	my_list.append()
->	my_string.format()
->	append only exists for lists and the format function only exists for strings
+Methods are functions only available to a specific object.
+my_list.append().
+my_string.format().
+append only exists for lists and the format function only exists for strings.
 
 
 
