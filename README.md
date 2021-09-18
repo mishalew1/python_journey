@@ -1,9 +1,7 @@
 # Python learning journey
 
 
-## Documenting methods I have learned
-
-**methods**
+### Documenting methods I have learned
 
 Methods are functions only available to a specific object.  
 my_list.append()  
@@ -11,8 +9,7 @@ my_string.format()
 append() only exists for lists and the format() function only exists for strings.  
 
 
-
-# format()
+### format()
 """
 	format() was introduced in Python 3 to handle complex string formatting more efficiently
 	
@@ -29,7 +26,7 @@ append() only exists for lists and the format() function only exists for strings
 	txt3 = 'My name is {}, I'm {}'.format('John',36)
 """
 
-# range()
+### range()
 """
 	range() creates a sequence of numbers, starting at 0 by default and incrementing by1 (by default) and stops at a specified number.
 
